@@ -1,4 +1,4 @@
-# Selamat Datang di Repositori Journal pribadi Pembelajaran Pemrograman say
+# Selamat Datang di Repositori Journal pribadi Pembelajaran Pemrograman saya
 
 ![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-blue)
 
