@@ -1,6 +1,6 @@
 # Selamat Datang di Repositori Journal pribadi Pembelajaran Pemrograman say
 
-[License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-blue)
+![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-blue)
 
 Repositori ini berfungsi sebagai journal pribadi saya dalam proses belajar pemrograman perangkat lunak, serta sebagai sumber pembelajaran umum yang dapat diakses oleh siapa pun. Dalam repositori ini, Anda akan menemukan berbagai modul pembelajaran untuk berbagai bahasa pemrograman.
 
